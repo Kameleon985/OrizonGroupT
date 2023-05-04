@@ -1,0 +1,34 @@
+{
+    "name": "PlayerInputs",
+    "maps": [
+        {
+            "name": "Actionmap",
+            "id": "e1549041-aeb7-4146-b81e-40148b9d673a",
+            "actions": [
+                {
+                    "name": "Dodge",
+                    "type": "Value",
+                    "id": "67cbaaeb-0001-4c02-a983-0dacb4f2b25b",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "12e1932c-109c-434d-b3b1-a7d422a37459",
+                    "path": "<Mouse>/position/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Dodge",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
